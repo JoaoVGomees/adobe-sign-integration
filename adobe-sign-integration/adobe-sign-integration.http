@@ -1,0 +1,6 @@
+@adobe_sign_integration_HostAddress = http://localhost:5081
+
+GET {{adobe_sign_integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

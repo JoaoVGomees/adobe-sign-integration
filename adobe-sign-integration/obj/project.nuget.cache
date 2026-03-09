@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VO3NNl59xC4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.vgpereira2\\Documents\\João Vitor\\adobe-sign-integration\\adobe-sign-integration\\adobe-sign-integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\questpdf\\2026.2.3\\questpdf.2026.2.3.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\joao.vgpereira2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
